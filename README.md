@@ -1,4 +1,4 @@
-Projects I have done in the field of Medicine
+Machine Learning projects I have done in the field of Medicine
 
 Could not upload one data file. Too large.
 
